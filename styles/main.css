@@ -1,0 +1,188 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+/* the styles for the header */
+header img {
+	float: left;
+}
+
+/* the styles for the main content */
+main {
+	clear: left;
+}
+main section h1 {
+	font-size: 150%;
+	padding-top: 0.5em;
+	padding-bottom: 0.25em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+article {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	border-top: 2px;
+	border-bottom: 2px;
+	color: #800000;
+}
+article img {
+	float: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 15px;
+	border: 1px solid black;
+}
+article h3 {
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+article h2 {
+	padding-top: 0;
+}
+header h2 {
+	font-size: 170%;
+	color: #800000;
+	text-indent: 30px;
+}
+header h3 {
+	font-size: 130%;
+	font-style: italic;
+	text-indent: 30px;
+}
+a {
+	font-style: italic;
+	
+}
+footer p {
+	text-align: center;
+}
+.shadow {
+	text-shadow: 2px 2px var(--global-color-1);
+}
+:root {
+	--global-color-1: #800000;
+}
+main section h2 {
+	color: var(--global-color-1);
+	font-size: 130%;
+}
+main aside h2 {
+	color: var(--global-color-1);
+	font-size: 130%;
+}
+main aside h3 {
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+section {
+	width: 525px;
+	float: right;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+
+}
+aside {
+	width: 215px;
+	float: right;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+/* the styles for the footer */
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+/* the styles for the header */
+header img {
+	float: left;
+}
+
+/* the styles for the main content */
+main {
+	clear: left;
+}
+main section h1 {
+	font-size: 150%;
+	padding-top: 0.5em;
+	padding-bottom: 0.25em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+article {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	border-top: 2px;
+	border-bottom: 2px;
+	color: #800000;
+}
+article img {
+	float: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 15px;
+	border: 1px solid black;
+}
+article h3 {
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+article h2 {
+	padding-top: 0;
+}
+header h2 {
+	font-size: 170%;
+	color: #800000;
+	text-indent: 30px;
+}
+header h3 {
+	font-size: 130%;
+	font-style: italic;
+	text-indent: 30px;
+}
+a {
+	font-style: italic;
+	
+}
+footer p {
+	text-align: center;
+}
+.shadow {
+	text-shadow: 2px 2px var(--global-color-1);
+}
+:root {
+	--global-color-1: #800000;
+}
+main section h2 {
+	color: var(--global-color-1);
+	font-size: 130%;
+}
+main aside h2 {
+	color: var(--global-color-1);
+	font-size: 130%;
+}
+main aside h3 {
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+section {
+	width: 525px;
+	float: right;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+
+}
+aside {
+	width: 215px;
+	float: right;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+/* the styles for the footer */
